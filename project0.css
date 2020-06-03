@@ -1,0 +1,17 @@
+body {
+    background-color: sandybrown;
+}
+
+.container {
+    background-color: lightblue;
+}
+
+
+.cabecera {
+    background-color: red;
+    color: white;
+}
+
+.menu {
+    background-color: springgreen;
+}
