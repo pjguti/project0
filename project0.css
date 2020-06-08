@@ -1,3 +1,97 @@
+<<<<<<< HEAD
+body {
+    background-color: white;
+    padding: 10px;
+}
+
+.container {
+    width: 100%;
+    background-color: white;
+    padding-top: 10px;
+}
+
+.header {
+    background-color: lightgray;
+    color: darkblue;
+    text-align: center;
+    height: 150px;
+    vertical-align: middle;
+}
+
+.header-menu {
+    background-color: gray;
+}
+
+a {
+    color: darkblue;
+}
+
+.menu {
+    background-color: springgreen;
+}
+
+img {
+    display: inline-block;
+}
+
+@media screen and (max-width: 50%) {
+    img {
+        display: none;
+    }
+}
+
+div {
+    width: 100%;
+}
+
+.container .table-1 {
+    border: 2px solid darkblue;
+    width: 50%;
+}
+
+th {
+    background-color: darkcyan;
+}
+
+th, td {
+    padding: 5px;
+    border: 1px solid lightblue;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.bloque1_pag1, .bloque1_pag3 {
+    width: 100%;
+    height: 100px;
+    background-color: lightgreen;
+}
+
+.bloque1_pag1, .bloque1_pag3 h2 {
+    text-align: center;
+    color: rebeccapurple;
+    margin-top: 10px;
+    padding-top: 25px;
+}
+
+.bloque1_pag1 h2 {
+    padding-top: 25px;
+}
+
+.bloque1_pag3 h2 {
+    padding-top: 10px;
+}
+
+.bloque1_pag2 {
+    width: 100%;
+    background-color: springgreen;
+}
+
+.go_top {
+    background-color: gainsboro;
+    border: 1px solid rgba(220, 220, 220, 0.637);
+    text-align: right;
+    display: inline;
+=======
 body {
     background-color: sandybrown;
 }
@@ -14,4 +108,5 @@ body {
 
 .menu {
     background-color: springgreen;
+>>>>>>> 8ba41aa22795df5cd56a0308866b25c0ac5cfab2
 }
